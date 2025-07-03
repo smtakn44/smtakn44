@@ -13,7 +13,7 @@ I'm an Computer Scientist and AI Enthusiast passionate about Deep Learning, LLMs
 - Learning, dreaming and designing new technologies
 
 ## 📫 How to reach me: ...
-- 📧 Email: semetakin44@gmail.com
+- 📧 Email: sametakin44@gmail.com
 - 💼 LinkedIn: [Samet Akın's Profile]([https://www.linkedin.com/in/samet-akin](https://www.linkedin.com/in/samet-ak%C4%B1n-b33120216/))
 
 ## ⚡ Fun fact: ...
