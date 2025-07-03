@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Samet
 
-<!--
-**smtakn44/smtakn44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Computer Scientist and AI Enthusiast passionate about Deep Learning, LLMs, Transformers and Reinforcement Learning.
 
-Here are some ideas to get you started:
+## 🌟 Passions
+- 💻 Developing AI solutions
+- 🤖 Diving into Deep Learning
+- 📊 Analyzing and developing smart algorithms
+- 🚗 Building autonomous systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+- Experimenting with neural network architectures
+- Learning, dreaming and designing new technologies
+
+## 📫 How to reach me: ...
+- 📧 Email: semetakin44@gmail.com
+- 💼 LinkedIn: [Samet Akın's Profile]([https://www.linkedin.com/in/samet-akin](https://www.linkedin.com/in/samet-ak%C4%B1n-b33120216/))
+
+## ⚡ Fun fact: ...
+- Overthinker
+
+## 📊 GitHub Stats
+![Samet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smtakn44&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smtakn44&layout=compact&theme=dracula)
