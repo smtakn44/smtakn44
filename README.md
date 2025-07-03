@@ -14,7 +14,7 @@ I'm an Computer Scientist and AI Enthusiast passionate about Deep Learning, LLMs
 
 ## 📫 How to reach me: ...
 - 📧 Email: sametakin44@gmail.com
-- 💼 LinkedIn: [Samet Akın's Profile]([https://www.linkedin.com/in/samet-akin](https://www.linkedin.com/in/samet-ak%C4%B1n-b33120216/))
+- 💼 LinkedIn: [Samet Akın's Profile](https://www.linkedin.com/in/samet-ak%C4%B1n-b33120216/)
 
 ## ⚡ Fun fact: ...
 - Overthinker
