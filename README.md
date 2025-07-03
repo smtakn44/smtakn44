@@ -16,8 +16,8 @@ I'm an Computer Scientist and AI Enthusiast passionate about Deep Learning, LLMs
 - 📧 Email: sametakin44@gmail.com
 - 💼 LinkedIn: [My Profile](https://www.linkedin.com/in/samet-ak%C4%B1n-b33120216/)
 
-## ⚡ Fun fact: ...
-- Overthinker
+## ⚡ Fun fact: 
+- Overthinker🦉
 
 ## 📊 GitHub Stats
 ![Samet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smtakn44&show_icons=true&theme=dracula)
